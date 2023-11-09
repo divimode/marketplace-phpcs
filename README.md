@@ -1,4 +1,6 @@
 > Workaround for [issue #6](https://github.com/elegantthemes/marketplace-phpcs/issues/6) until elegant themes fixes the official [PHPCS module](https://github.com/elegantthemes/marketplace-phpcs/).
+>
+> Also enabled PHP 7 syntax [issue #7](https://github.com/elegantthemes/marketplace-phpcs/issues/7)
 
 # Prerequisites
 
